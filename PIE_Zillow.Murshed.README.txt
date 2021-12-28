@@ -1,0 +1,14 @@
+##################################################################
+Jupyter notebook was used to easier download and add multiple python library 
+
+Web scrapper used: beautifulsoup4, selenium, webdriver. 
+Pandas would be useful to save the data, and also regex would extract data 
+from the link. 
+These web scrapper; python library needed to add before running the script.
+
+Fastest way to run the code is to use notebook, I've used google colaboratory
+web API is restricting access and data were null
+
+output: csv format
+
+##########################################################
